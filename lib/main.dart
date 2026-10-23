@@ -115,7 +115,7 @@ class MyApp extends StatelessWidget {
                                     top: Radius.circular(10),
                                   ),
                                   child: Image.asset(
-                                    'assets/images/20261020_174836.jpg',
+                                    'assets/images/109579150_p0_master1200.jpg',
                                     width: 150,
                                     height: 200,
                                     fit: BoxFit.cover,
@@ -125,7 +125,7 @@ class MyApp extends StatelessWidget {
                                 const Padding(
                                   padding: EdgeInsets.all(10),
                                   child: Text(
-                                    'Award Ceremony Photo',
+                                    'Artwork 1',
                                     textAlign: TextAlign.center,
                                     style: TextStyle(
                                       color: Color(0xFF66757F),
@@ -157,7 +157,7 @@ class MyApp extends StatelessWidget {
                                     top: Radius.circular(10),
                                   ),
                                   child: Image.asset(
-                                    'assets/images/20261020_174836.jpg',
+                                    'assets/images/134555759_p0_master1200.jpg',
                                     width: 150,
                                     height: 200,
                                     fit: BoxFit.cover,
@@ -167,7 +167,7 @@ class MyApp extends StatelessWidget {
                                 const Padding(
                                   padding: EdgeInsets.all(10),
                                   child: Text(
-                                    'Award Ceremony Photo',
+                                    'Artwork 2',
                                     textAlign: TextAlign.center,
                                     style: TextStyle(
                                       color: Color(0xFF66757F),
@@ -199,7 +199,7 @@ class MyApp extends StatelessWidget {
                                     top: Radius.circular(10),
                                   ),
                                   child: Image.asset(
-                                    'assets/images/20261020_174836.jpg',
+                                    'assets/images/135140905_p0_master1200.jpg',
                                     width: 150,
                                     height: 200,
                                     fit: BoxFit.cover,
@@ -209,7 +209,7 @@ class MyApp extends StatelessWidget {
                                 const Padding(
                                   padding: EdgeInsets.all(10),
                                   child: Text(
-                                    'Award Ceremony Photo',
+                                    'Artwork 3',
                                     textAlign: TextAlign.center,
                                     style: TextStyle(
                                       color: Color(0xFF66757F),
